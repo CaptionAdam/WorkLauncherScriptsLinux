@@ -1,6 +1,8 @@
+#!/bin/bash
 # Script to Initiate SSH Conections
 #
-#
+
+
 while :
     do
     clear
