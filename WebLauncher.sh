@@ -91,7 +91,7 @@ case "${choice}" in
             exo-open --launch TerminalEmulator ssh root@ender3-6
             ;;
             "OMV(Server) SSH")
-            exo-open --launch TerminalEmulator ssh root@rctshoppi1
+            exo-open --launch TerminalEmulator ssh pi@rctshoppi1
             ;;
 	    "LaserCutter SSH")
 	    exo-open --launch TerminalEmulator ssh LaserPi@laserpi
