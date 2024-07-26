@@ -67,8 +67,8 @@ case "${choice}" in
         "Ender3-Ke #4 SSH(PW: Creality2023)" \
         "Ender3-Ke #5 SSH(PW: Creality2023)" \
         "Ender3-Ke #6 SSH(PW: Creality2023)" \
-        "OMV(Server) SSH" \
-	"LaserCutter SSH")" 
+        "OMV(Server) SSH(PW: RCT2024)" \
+	"LaserCutter SSH(PW:RCT2024)")" 
 
         case "${choice2}" in
             "Ender3-Ke #1 SSH(PW: Creality2023)")
