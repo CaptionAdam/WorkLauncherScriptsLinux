@@ -23,7 +23,7 @@ SSHMenu () {
         echo "              : l  - Laser Control    :"
         echo "              :--------Options--------:"
         echo "              : m  - Main Menu        :"
-        echo "              : c  - CMD List         :"
+        #echo "              : c  - CMD List         :"
         echo "              : q  - EXIT             :"
         echo "              :.......................:"
         echo -n "Enter your menu choice:"
